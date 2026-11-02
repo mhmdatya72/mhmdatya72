@@ -41,16 +41,6 @@ Currently leading a development team at **Cord Digital** — code reviews, task 
 
 ➡️ More on my portfolio: [mohamedatya-dev.vercel.app/projects](https://mohamedatya-dev.vercel.app/projects)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmdatya72&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdatya72&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mhmdatya72&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">💬 Open to collaborating on Laravel, API and full-stack projects — feel free to reach out.</p>
